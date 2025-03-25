@@ -29,7 +29,8 @@ function App() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0 flex items-center">
-                <img src="https://i.ibb.co/0pTS2KrK/Tt-app-Logo.png" alt="TerraTime Logo" className="h-8 w-auto" />
+                <img src="https://i.ibb.co/fYrp86x5/Launch-Screen-Center-3x-withline.png
+https://i.ibb.co/h177KTBs/Launch-Screen-Center-3x-withline-grounds.png" alt="TerraTime Logo" className="h-8 w-auto" />
                 <span className="ml-2 text-xl font-bold text-gray-900">TerraTime</span>
               </div>
             </div>
